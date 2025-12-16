@@ -1,0 +1,1 @@
+import{_ as s}from"./DlAUqK2U.js";import{o as r,c as t,a,A as o}from"./DJRAHEfg.js";const c={},n={class:"wrapper"},_={class:"wrapper__inner"};function d(e,p){return r(),t("div",n,[a("div",_,[o(e.$slots,"default",{},void 0,!0)])])}const l=s(c,[["render",d],["__scopeId","data-v-6f9bed3a"]]);export{l as default};

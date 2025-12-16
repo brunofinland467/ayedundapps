@@ -1,0 +1,1 @@
+const o=(t,e=" ")=>t.toString().replace(/\B(?=(\d{3})+(?!\d))/g,e),r=t=>{const e=new Date(t),n={year:"numeric",month:"long",day:"numeric"};return e.toLocaleDateString("en-US",n)};export{r as a,o as f};

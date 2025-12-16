@@ -1,0 +1,1 @@
+import{a4 as i}from"./DJRAHEfg.js";const c=i("push",{state:()=>({visible:!1,message:"",color:"#1ccc8d"}),actions:{show(s,e="success",t=3e3){this.message=s,this.color=e==="error"?"#FF2B5E":"#1ccc8d",this.visible=!0,setTimeout(()=>{this.visible=!1},t)}}});export{c as u};

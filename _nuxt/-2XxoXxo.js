@@ -1,0 +1,1 @@
+import{u as a,a as s}from"./6kCCef0h.js";import"./DJRAHEfg.js";async function e(){const{data:t}=s("nft-marketplace-statistics");return t.value?t.value:(await $fetch("/api/nft-marketplace-statistics")).data}function n(){return a("nft-marketplace-statistics",()=>e())}export{n as u};
